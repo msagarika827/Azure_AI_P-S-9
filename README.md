@@ -1,7 +1,7 @@
 
-# Azure OpenAI Hiking Recommendation App
+# Integrate Azure OpenAI into your app
 
-This repository contains a sample application that demonstrates how to integrate Azure OpenAI into a C# or Python application to provide hiking recommendations. The application utilizes the Azure OpenAI Service to interact with a generative AI model, allowing users to ask for hiking suggestions based on their preferences.
+This repository contains a sample application that demonstrates how to integrate Azure OpenAI into a Python application to provide hiking recommendations. The application utilizes the Azure OpenAI Service to interact with a generative AI model, allowing users to ask for hiking suggestions based on their preferences.
 
 ## Table of Contents
 1. [Prerequisites]
